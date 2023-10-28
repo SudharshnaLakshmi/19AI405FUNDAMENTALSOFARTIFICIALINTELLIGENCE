@@ -80,7 +80,7 @@ print(traversedpath)
 ```
 
 ### Output:
-![](1.png)
+![image](https://github.com/SudharshnaLakshmi/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/93427267/82723186-bc05-4f25-9731-7d4f9940d3df)
 
 <h3>Result:</h3>
 <hr>
